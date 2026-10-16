@@ -56,3 +56,27 @@ artifacts/*
 *.tar.gz
 .open-source-release/
 coverage/
+
+# BEGIN cross-device workspace
+.env
+.env.*
+!.env.example
+!.env.*.example
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+.secrets/
+node_modules/
+dist/
+.next/
+.wrangler/
+.vercel/
+.playwright-cli/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+# END cross-device workspace

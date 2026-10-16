@@ -1,5 +1,9 @@
 # GPTibo
 
+## Windows / macOS 开发接续
+
+先读 [跨设备说明](docs/CROSS_DEVICE.md)、[当前进度](STATUS.md) 和 [AI 项目规则](AGENTS.md)。运行环境、任务分支和换电脑步骤在跨设备说明中；项目原有功能、数据与发布约定继续见下文。
+
 **可自托管的数字商品商城，包含用户前台、管理后台与代理工作台。**
 
 [![CI](https://github.com/CoolkHz/gptibo/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/CoolkHz/gptibo/actions/workflows/verify.yml)
